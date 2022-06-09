@@ -1,0 +1,12 @@
+.Links{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4rem;
+    background: #161619;
+    border-radius: 0px 0px 0.90rem 0.90rem;
+    
+}
+.Links img{
+    margin: 0.80rem;
+}
